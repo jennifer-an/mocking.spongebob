@@ -1,6 +1,6 @@
 # mocking.spongebob
 
-### Some background
+### Intro
 Mocking SpongeBob was a once popular meme floating around the interwebs, 
 based on the classic cartoon series <a href="https://en.wikipedia.org/wiki/SpongeBob_SquarePants" target="_blank">SpongeBob SquarePants</a>.
 
@@ -10,6 +10,7 @@ of SpongeBob flapping his arms around imitating a chicken, as below.
 
 ![](https://imgflip.com/s/meme/Mocking-Spongebob.jpg)
 
+The `mocking.spongebob` R package helps you type up a string of words in alternating captials.
 
 ### How it works
 It's real easy. This is a one function one package type piece of work. 
