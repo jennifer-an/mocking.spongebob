@@ -10,7 +10,7 @@ of SpongeBob flapping his arms around imitating a chicken, as below.
 
 ![](https://imgflip.com/s/meme/Mocking-Spongebob.jpg)
 
-The `mocking.spongebob` R package helps you type up a string of words in alternating captials.
+The `mocking.spongebob` R package can be used to generate mocking SpongeBob text.
 
 ### How it works
 It's real easy. This is a one function one package type piece of work. 
