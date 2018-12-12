@@ -2,8 +2,7 @@
 
 ### Some background
 Mocking SpongeBob was a once popular meme floating around the interwebs, 
-based on the classic cartoon series 
-[SpongeBob SquarePants](https://en.wikipedia.org/wiki/SpongeBob_SquarePants).
+based on the classic cartoon series <a href="https://en.wikipedia.org/wiki/SpongeBob_SquarePants" target="_blank">SpongeBob SquarePants</a>.
 
 The setup is simple, to mock someone, repeat what they say but TYPe iT uP lIKe ThIS
 in randomly alternating capital letters. This is accompanied with an image
